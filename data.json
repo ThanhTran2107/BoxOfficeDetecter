@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Superman (2025)",
+    "revenue": "1.728.029.878",
+    "ticket": "14.977",
+    "screening": "2.158"
+  },
+  {
+    "name": "Thế Giới Khủng Long: Tái Sinh",
+    "revenue": "1.132.795.800",
+    "ticket": "10.403",
+    "screening": "1.256"
+  },
+  {
+    "name": "Điều Ước Cuối Cùng",
+    "revenue": "793.990.978",
+    "ticket": "9.145",
+    "screening": "1.093"
+  },
+  {
+    "name": "Bí Kíp Luyện Rồng live action",
+    "revenue": "459.619.142",
+    "ticket": "4.200",
+    "screening": "332"
+  },
+  {
+    "name": "Ma Xưởng Mía",
+    "revenue": "432.487.127",
+    "ticket": "5.348",
+    "screening": "671"
+  },
+  {
+    "name": "Út Lan: Oán Linh Giữ Của",
+    "revenue": "423.350.981",
+    "ticket": "4.873",
+    "screening": "610"
+  },
+  {
+    "name": "Một Nửa Hoàn Hảo",
+    "revenue": "369.352.003",
+    "ticket": "3.087",
+    "screening": "285"
+  },
+  {
+    "name": "Wolfoo Và Cuộc Đua Tam Giới",
+    "revenue": "311.424.515",
+    "ticket": "3.001",
+    "screening": "396"
+  },
+  {
+    "name": "Maracuda: Nhóc Quậy Rừng Xanh",
+    "revenue": "212.483.602",
+    "ticket": "1.989",
+    "screening": "248"
+  },
+  {
+    "name": "F1",
+    "revenue": "143.715.062",
+    "ticket": "1.116",
+    "screening": "71"
+  },
+  {
+    "name": "Ga Tử Thần",
+    "revenue": "132.981.010",
+    "ticket": "1.404",
+    "screening": "397"
+  },
+  {
+    "name": "Elio: Cậu Bé Đến Từ Trái Đất",
+    "revenue": "105.993.844",
+    "ticket": "973",
+    "screening": "69"
+  },
+  {
+    "name": "Doraemon Movie 44: Nobita Và Cuộc Phiêu Lưu Vào Thế Giới Trong Tranh",
+    "revenue": "86.621.889",
+    "ticket": "840",
+    "screening": "45"
+  },
+  {
+    "name": "Đợi Gì Mơ Đi",
+    "revenue": "27.531.827",
+    "ticket": "290",
+    "screening": "319"
+  },
+  {
+    "name": "Tổ Đội Gấu Nhí: Du Hí 4 Phương",
+    "revenue": "24.126.000",
+    "ticket": "261",
+    "screening": "50"
+  },
+  {
+    "name": "Nhiệm Vụ Bất Khả Thi 8 - Nghiệp Báo Cuối Cùng",
+    "revenue": "22.708.496",
+    "ticket": "174",
+    "screening": "9"
+  },
+  {
+    "name": "Chuyến Tàu Sinh Tử",
+    "revenue": "19.370.000",
+    "ticket": "298",
+    "screening": "52"
+  },
+  {
+    "name": "Lilo & Stitch live action",
+    "revenue": "10.338.826",
+    "ticket": "76",
+    "screening": "5"
+  },
+  {
+    "name": "Siêu Sao Nguyên Thuỷ",
+    "revenue": "9.786.000",
+    "ticket": "122",
+    "screening": "50"
+  },
+  {
+    "name": "Dế Mèn: Cuộc Phiêu Lưu Tới Xóm Lầy Lội",
+    "revenue": "9.405.000",
+    "ticket": "110",
+    "screening": "4"
+  },
+  {
+    "name": "Trạng Quỳnh Nhí: Truyền Thuyết Kim Ngưu",
+    "revenue": "5.930.000",
+    "ticket": "68",
+    "screening": "5"
+  },
+  {
+    "name": "Tìm Xác: Ma Không Đầu",
+    "revenue": "5.871.000",
+    "ticket": "86",
+    "screening": "15"
+  },
+  {
+    "name": "Quan Tài Vợ Quỷ",
+    "revenue": "5.258.228",
+    "ticket": "56",
+    "screening": "44"
+  },
+  {
+    "name": "28 Năm Sau: Hậu Tận Thế",
+    "revenue": "4.760.476",
+    "ticket": "44",
+    "screening": "12"
+  },
+  {
+    "name": "Bán Đảo Peninsula",
+    "revenue": "1.235.000",
+    "ticket": "19",
+    "screening": "16"
+  }
+]

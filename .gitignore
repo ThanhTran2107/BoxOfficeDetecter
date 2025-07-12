@@ -1,0 +1,6 @@
+node_modules/
+*.log
+data.json
+newData.json
+youtube_search.png
+.cache/
